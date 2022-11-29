@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klebanovyatwit
-- 🌱 I’m currently a Site Reliability Enginner Intern at Sophos 
+- 🌱 I’m currently a Security Services Operations at CyberArk 
 - 📫 How to reach me - https://www.linkedin.com/in/yashaklebanov/
 
 <!---
